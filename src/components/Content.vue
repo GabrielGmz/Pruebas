@@ -49,7 +49,7 @@
                 Esta dedicatoria es solo para ti, con todo mi amor y un toque de magia morada.
             </p>
             <button class="modal-btn" @click="showModal = true">
-                Descubre tu mensaje especial
+                Abrir Detalles 💜
             </button>
         </div>
 

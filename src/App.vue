@@ -5,3 +5,9 @@ import Content from './components/Content.vue';
 <template>
   <Content />
 </template>
+
+<script>
+export default {
+  name: "App",
+};
+</script>
